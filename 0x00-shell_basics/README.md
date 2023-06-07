@@ -15,3 +15,5 @@ Task 6: A script to create a directory.
 Task 7: A script to move betty to /tmp/my_first_directory
 
 Task 8: Delete the file betty.
+
+Task 9: Delete the directory
