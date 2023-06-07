@@ -11,3 +11,5 @@ Task 4: A script to display current directory contents, including hidden files i
 Task 5: A script to display current directory contents: Long format, with user and group IDs displayednumerically,And hidden files.
 
 Task 6: A script to create a directory.
+
+Task 7: A script to move betty to /tmp/my_first_directory
