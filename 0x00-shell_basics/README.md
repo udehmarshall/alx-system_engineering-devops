@@ -19,3 +19,5 @@ Task 8: Delete the file betty.
 Task 9: Delete the directory
 
 Task 10: A script that changes the working directory to the previous one.
+
+Task 11: A script to list  all files
