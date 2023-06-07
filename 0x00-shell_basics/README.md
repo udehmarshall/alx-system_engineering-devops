@@ -17,3 +17,5 @@ Task 7: A script to move betty to /tmp/my_first_directory
 Task 8: Delete the file betty.
 
 Task 9: Delete the directory
+
+Task 10: A script that changes the working directory to the previous one.
